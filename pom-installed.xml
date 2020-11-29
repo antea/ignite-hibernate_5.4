@@ -90,9 +90,9 @@
   </issueManagement>
   <distributionManagement>
     <repository>
-      <id>apache.releases.https</id>
-      <name>Apache Release Distribution Repository</name>
-      <url>https://repository.apache.org/service/local/staging/deploy/maven2</url>
+      <id>github</id>
+      <name>GitHub antea Apache Maven Packages</name>
+      <url>https://maven.pkg.github.com/antea/ignite-hibernate_5.4</url>
     </repository>
     <snapshotRepository>
       <id>apache.snapshots.https</id>
